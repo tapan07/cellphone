@@ -1,0 +1,19 @@
+{
+  "cellphone": [
+    {
+      "id": 1,
+      "name": "hello",
+      "imageUrl": ""
+    },
+    {
+      "id": 2,
+      "name": "hello",
+      "imageUrl": ""
+    },
+    {
+      "id": 3,
+      "name": "hello",
+      "imageUrl": ""
+    }
+  ]
+}
