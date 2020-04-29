@@ -2,18 +2,38 @@
   "cellphone": [
     {
       "id": 1,
-      "name": "hello",
-      "imageUrl": ""
+      "name": "Xiaomi Mi3",
+      "imageUrl": "https://i.ibb.co/s5CVG7w/mi3.jpg"
     },
     {
       "id": 2,
-      "name": "hello",
-      "imageUrl": ""
+      "name": "Honor 7X",
+      "imageUrl": "https://i.ibb.co/KLFGcYD/honor.jpg"
     },
     {
       "id": 3,
-      "name": "hello",
-      "imageUrl": ""
+      "name": "Nokia 6.2 Plus",
+      "imageUrl": "https://i.ibb.co/YWTS4Q7/nokia.jpg"
+    },
+     {
+      "id": 4,
+      "name": "Oppo F9 Pro",
+      "imageUrl": "https://i.ibb.co/d6JBHRR/oppo.jpg"
+    },
+     {
+      "id": 5,
+      "name": "Proco F1",
+      "imageUrl": "https://i.ibb.co/RSrC1sr/pocof3.jpg"
+    },
+     {
+      "id": 6,
+      "name": "Redme 8",
+      "imageUrl": "https://i.ibb.co/QfZRZ4p/Redme.jpg"
+    },
+     {
+      "id": 7,
+      "name": "Galaxy Samsung M30",
+      "imageUrl": "https://i.ibb.co/2jynG90/samsung.jpg"
     }
   ]
 }
